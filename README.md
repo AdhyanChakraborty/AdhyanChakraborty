@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdhyanChakraborty
+- 👋 Hi, I’m @Adhyan Chakraborty
 - 👀 I’m interested in Coding
-<!---
+
 
